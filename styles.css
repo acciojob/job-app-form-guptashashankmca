@@ -14,10 +14,4 @@ input[type=submit]{
 input[type=submit]:hover{
 	background-color:lightcyan;
 }
-
-div{
-	background-color:lightblue;
-	height:200%;
-	padding:5px;;
-}
 /* Your CSS Code here. */
